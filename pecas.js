@@ -1,7 +1,4 @@
-// Variáveis, são um espaço na memória do computador para guardar algum valor.
-// pesoPeca = Camel Case
-// peso_peca = Snake Case
-// PesoPeca = Pascal Case
+//ATIVIDADE: CADASTRO LOJA DE PEÇAS - PFS_UC8 - LÓGICA DE PROGRAMAÇÃO - TURMA 4
 
 let pesoPeca = 100
 
